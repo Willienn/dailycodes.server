@@ -6,7 +6,7 @@ Bem-vindo ao repositório do **Dailycodes SMP**, o servidor oficial da comunidad
 
 Para entrar no servidor, é necessário fazer uma solicitação de **whitelist**. Por favor, visite o seguinte endereço para enviar seu pedido:
 
-> **[subdomínio.dominio.dev](https://subdomínio.dominio.dev)**
+> **[server.dailycodes.dev](server.dailycodes.dev)**
 
 Sem estar na whitelist, você não conseguirá se conectar ao servidor.
 
